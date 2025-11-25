@@ -1,5 +1,5 @@
 # book_store_api_new
-Book Store API - project with Express JS framework for educational purpose
+Book Store API New - project with Express JS framework for educational purpose
 
 <img src="nodejs.webp">
 
